@@ -1,0 +1,12 @@
+Map data © OpenStreetMap contributors, available under ODbL 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+The PMTiles files in data/regions contain Protomaps Basemap vector layers
+based on OpenStreetMap and Natural Earth, as recorded in their metadata.
+https://protomaps.com/
+https://www.naturalearthdata.com/
+
+The bundled maps are local extracts with limited geographic coverage and
+zoom levels. Detailed region extracts and the Russia overview have different
+levels of detail. The map data is not a live feed.
